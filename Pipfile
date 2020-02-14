@@ -11,6 +11,9 @@ autopep8 = "*"
 ortools = "*"
 requests = "*"
 bs4 = "*"
+shapely = "*"
+fastkml = "*"
+lxml = "*"
 
 [requires]
 python_version = "3.5"
